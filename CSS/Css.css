@@ -1,0 +1,484 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.bannière2{
+    background-image: url(../Ressource/image/bannière3.png);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 0%;
+    border: 10px solid;
+}
+
+.backgroundnoir{
+    background-color: black;
+    margin-top: -12%;
+    height: 700%;
+    width: 100%;
+}
+
+.police{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F0F8FF;
+    text-align: center;
+    font-size: 200%;
+}
+
+.police2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F0F8FF;
+    text-align: center;
+}
+
+.centre{
+    text-align: center;
+    height: 150px;
+    padding-top: 60px;
+    font-family: cursive;
+    font-size: 400%;
+    color: #F0F8FF;
+}
+
+.centre2{
+    padding-left: 750px;
+    padding-right: 750px;
+}
+
+.couleur{
+    color: #F0F8FF;
+    font-size: 175%;
+    text-decoration: double;
+    margin-bottom: 10px;
+    margin-left: 120px;
+    font-family: cursive;
+}
+
+.couleur2{
+    color: white;
+}
+
+.degradé{
+    background: linear-gradient(
+        217deg,
+        #ff0000,
+        rgba(255, 0, 0, 0) 60%
+      ), linear-gradient(127deg, rgba(212, 0, 255, 0.8), rgba(0, 255, 0, 0) 80%),
+      linear-gradient(336deg, rgba(0, 0, 255, 0.8), rgba(0, 0, 255, 0) 70%);
+      background-repeat: no-repeat;
+}
+
+.imageronde{
+    border-radius: 50%;
+}
+
+.bannière{
+    background-color: black;
+}
+
+.L{
+    text-align: center;
+    height: 150px;
+    padding-top: 60px;
+    font-family: cursive;
+    font-size: 400%;
+    color: aliceblue;
+}
+
+.A{
+    text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    rgb(21, 87, 41) 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 400% auto;
+  color: white;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: Tc 5s linear infinite;
+  display: inline-block;
+    font-size: 275px;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 10px;
+}
+
+@keyframes Tc{
+to{
+  background-position: 200% center;
+}
+  }
+
+.B{
+    background-color: black;
+}
+
+.i{
+    text-align: center;
+    margin-left: 230px;
+}
+
+.backgrounddiscographie{
+    background-image: url(../Ressource/image/fondbleu4paint3d.png);
+    height: auto;
+    width: auto;
+    background-size: 100%;
+}
+
+.bannière3{
+    background-color: rgb(0, 0, 0);
+    margin-right: -20px;
+    margin-top: -60px;
+    margin-left: -20px;
+}
+
+.imgdiscographie{
+    height: 85%;
+    width: 85%;
+}
+
+.deplacement{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.taillecouleur{
+    color: #F0F8FF;
+    font-size: 320%;
+}
+
+.taillecouleur2{
+    color: #F0F8FF;
+    font-size: 450%;
+}
+
+.imgdiscographie2{
+    height: 75%;
+    width: 75%;
+}
+
+.D{
+    margin-top: 20px;
+}
+
+.taillecouleur3{
+    color: #F0F8FF;
+    font-size: 50%;
+}
+
+.E{
+    position: relative;
+    display: inline-block;
+}
+
+.F{
+    position: absolute;
+    right: 50%; bottom: 10%;
+    transform: translate(+150%,+30%);
+    background-color: rgba(0,0,0,0.75);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: none;
+}
+
+.E:hover .F{
+    display: block;
+}
+
+.G{
+    position: relative;
+    display: inline-block;
+}
+
+.H{
+    position: absolute;
+    right: 50%; bottom: 10%;
+    transform: translate(-50%,+20%);
+    background-color: rgba(0,0,0,0.75);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: none;
+}
+
+.G:hover .H{
+    display: block;
+}
+
+.J{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #F0F8FF;
+}
+
+
+.i2{
+    text-align: center;
+    margin-left: 250px;
+}
+
+.Page{
+    margin: 0;
+}
+
+.backgroundfeats{
+    background-image: url(../Ressource/image/imagefondpaint3d.png);
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.L2{
+    text-align: center;
+    height: 150px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    color: #F0F8FF;
+    border: solid;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-image: url(../Ressource/image/imagefondrouge.png);
+    background-size: 100%;
+
+}
+
+.Forme{
+    background-color: #00000018;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    border-radius: 7.5%;
+    padding: 0.5%;
+}
+
+.DL{
+    border-radius: 12.5%;
+    height: 100%;
+    width: 100%;
+}
+
+.Aglou{
+    box-shadow: 10px 8px 10px 5px rgba(0, 0, 0, 0.671);
+}
+
+.taillecouleur4{
+    color: #F0F8FF;
+    font-size: 110%;
+}
+
+.D2{
+    width: 75%;
+}
+
+.DL2{
+    border-radius: 12.5%;
+    height: 75%;
+    width: 75%;
+}
+
+.ARM{
+    transition: transform 0.5s ease;
+}
+
+.ARM:hover{
+    transform:scale(1.2);
+}
+
+.BGH{
+    margin: auto;
+    width: 80%;
+    display: block;
+}
+
+
+.Z:hover{
+    background-color: red;
+}
+
+.i3:hover{
+    background-color: blue;
+}
+
+
+.i3{
+    text-align: center;
+    margin-left: 230px;
+}
+
+.i2:hover{
+    background-color: red;
+}
+
+.i4{
+    text-align: center;
+    margin-left: 230px;
+}
+
+.i4:hover{
+    background-color: green;
+}
+
+.Animationamettre{
+    width: 100%;
+    height: 1080px;
+    background: linear-gradient(-180deg, #00a51b, #009419, #006b12, #009419, #00a51b);
+    background-size: 400% 400%;
+    animation: Gr 10s infinite linear;
+}
+
+@keyframes Gr{
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
+
+.backgroundclips{
+    background-image: url(../Ressource/image/fonddeuxvertpaitn3d2.png);
+    height: auto;
+    width: auto;
+    background-size: 100%;
+}
+
+
+.Kawazaki{
+    width: 100%;
+    border: 5px solid #006b12;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.Cago{
+    margin: auto;
+    width: 70%;
+}
+
+.L3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 250%;
+    color: aliceblue;
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+    .bannière2 {
+        margin-left: 5%;
+        margin-right: 5%;
+        border-width: 5px;
+    }
+    .centre2 {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .couleur {
+        margin-left: 0;
+        display: block;
+        text-align: center;
+        padding: 0.25em 0;
+    }
+    .centre, .L {
+        font-size: 200%;
+        padding-top: 30px;
+        height: auto;
+    }
+    .A {
+        font-size: 80px;
+    }
+    .police {
+        font-size: 140%;
+    }
+    .taillecouleur {
+        font-size: 200%;
+    }
+    .taillecouleur2 {
+        font-size: 280%;
+    }
+    .L2 {
+        margin-left: 5%;
+        margin-right: 5%;
+        font-size: 150%;
+    }
+    .deplacement {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .i, .i2, .i3, .i4 {
+        margin-left: 0;
+        display: block;
+        text-align: center;
+        padding: 0.25em 0;
+    }
+    .Animationamettre {
+        height: auto;
+        min-height: 100vh;
+    }
+    .backgroundnoir {
+        height: auto;
+    }
+    .Forme {
+        margin-left: 0;
+        margin-bottom: 1%;
+    }
+    .BGH {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+    }
+    .BGH table {
+        min-width: 600px;
+    }
+    .Cago {
+        width: 95%;
+        padding: 0 2%;
+    }
+    .F, .H {
+        transform: translate(-50%, 0);
+        left: 50%;
+        right: auto;
+        max-width: 90vw;
+    }
+    table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    .imgdiscographie, .imgdiscographie2 {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .bannière2 {
+        margin-left: 0;
+        margin-right: 0;
+        border-width: 3px;
+    }
+    .A {
+        font-size: 48px;
+    }
+    .centre, .L {
+        font-size: 150%;
+    }
+    .taillecouleur2 {
+        font-size: 200%;
+    }
+    .L2 {
+        font-size: 120%;
+    }
+}

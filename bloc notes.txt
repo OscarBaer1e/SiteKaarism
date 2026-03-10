@@ -1,0 +1,474 @@
+<Table class="ULU">
+    <tr>
+        <th> <h2 class="J"> 2020</h2>  <p class="J"> "Scooter Ecouteur" de Giuseppe
+        </p></th>
+    
+        <th><h2 class="J"> 2021</h2>
+            <p class="J">
+                8Morts 6Bléssés de Freeze Cornichon
+            </p></th>
+    
+        <th><h2 class="J"> 2022</h2>
+    
+            <p class="J">
+                Scam Wizard de Saiili
+            </p></th>
+    
+        <th><h2 class="J"> 2022</h2>
+    
+            <p class="J">
+                SilkRoad de ZefraLaf
+            </p></th>
+    
+        <th><h2 class="J"> 2022</h2>
+    
+            <p class="J">
+                Calvicie de Singeboy.Mp4
+            </p></th>
+    </tr>
+    
+    
+    <tr>
+    
+    
+        <th><div class="U">
+            <div class="UL">
+        <img src="../image/scooterecouter.png" alt="ScooterEcouters"> <br>
+        </div>
+        <audio controls src="../image/Scooteur Ecouteur (feat. Kaarism).mp3">
+            ScootersEcouteurs
+        </audio>
+        </div></th>
+    
+    
+        <th><div class="U">
+            <div class="UL">
+        <img src="../image/freezecornichon.png" alt="8Morts 6Bléssés"> <br>
+        </div>
+        <audio controls src="../image/Freeze Cornichon - 8 Morts 6 Bléssés (Feat. Kaarism).mp3">
+            8Morts6Bléssés
+        </audio>
+        </div></th>
+    
+    
+        <th><div class="U">
+            <div class="UL">
+        <img src="../image/scamwizard.png" alt="Scam Wizard"> <br>
+        </div>
+        <audio controls src="../image/Saiili ft. Kaarism - Banque De France.mp3">
+            Scam Wizard
+        </audio>
+        </div></th>
+    
+    
+        <th><div class="U">
+            <div class="UL">
+        <img src="../image/purpleproject.png" alt="Silkroad"> <br>
+        </div>
+        <audio controls src="../image/Silkroad.mp3">
+            Silkroad
+        </audio>
+        </div></th>
+    
+    
+        <th><div class="U">
+            <div class="UL">
+        <img src="../image/calvicie.png" alt="Calvicie"> <br>
+        </div>
+        <audio controls src="../image/Calvitie.mp3">
+            Calvicie
+        </audio>
+        </div></th>
+    
+    
+    </tr>
+    
+    
+    </Table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="Forme">
+
+<div>
+    <h2 class="J"> 2020</h2>  <p class="J"> "Scooter Ecouteur" de Giuseppe
+    </p>
+    <div class="U">
+        <div class="UL">
+    <img src="../image/scooterecouter.png" alt="ScooterEcouters"> <br>
+    </div>
+    <audio controls src="../image/Scooteur Ecouteur (feat. Kaarism).mp3">
+        ScootersEcouteurs
+    </audio>
+    </div>
+</div>
+
+
+<div class="ULU">
+    <h2 class="J"> 2021</h2>
+        <p class="J">
+            8Morts 6Bléssés de Freeze Cornichon
+        </p>
+        <div class="U">
+            <div class="UL">
+        <img src="../image/freezecornichon.png" alt="8Morts 6Bléssés"> <br>
+        </div>
+        <audio controls src="../image/Freeze Cornichon - 8 Morts 6 Bléssés (Feat. Kaarism).mp3">
+            8Morts6Bléssés
+        </audio>
+        </div>
+
+</div>
+
+<div class="ULU1">
+    <h2 class="J"> 2022</h2>
+
+    <p class="J">
+        SilkRoad de ZefraLaf
+    </p>
+    <div class="U">
+        <div class="UL">
+    <img src="../image/scamwizard.png" alt="Scam Wizard"> <br>
+    </div>
+    <audio controls src="../image/Saiili ft. Kaarism - Banque De France.mp3">
+        Scam Wizard
+    </audio>
+    </div>
+</div>
+
+<div class="ULU2">
+    <h2 class="J"> 2022</h2>
+
+    <p class="J">
+        SilkRoad de ZefraLaf
+    </p>
+    <div class="U">
+        <div class="UL">
+    <img src="../image/purpleproject.png" alt="Silkroad"> <br>
+    </div>
+    <audio controls src="../image/Silkroad.mp3">
+        Silkroad
+    </audio>
+    </div>
+</div>
+
+
+<div class="ULU3">
+    <h2 class="J"> 2022</h2>
+
+    <p class="J">
+        Calvicie de Singeboy.Mp4
+    </p>
+    <div class="U">
+        <div class="UL">
+    <img src="../image/calvicie.png" alt="Calvicie"> <br>
+    </div>
+    <audio controls src="../image/Calvitie.mp3">
+        Calvicie
+    </audio>
+    </div>
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+
+<tr>
+<th>
+    <img class="DL" src="../image/scooterecouter.png" alt="ScooterEcouters"> <br>
+        <audio controls src="../image/Scooteur Ecouteur (feat. Kaarism).mp3">
+            ScootersEcouteurs
+        </audio>
+</th>
+
+<th>
+<img class="DL" src="../image/freezecornichon.png" alt="8Morts 6Bléssés"> <br>
+
+<audio controls src="../image/Freeze Cornichon - 8 Morts 6 Bléssés (Feat. Kaarism).mp3">
+    8Morts6Bléssés
+</audio>
+</th>
+
+<th>
+<img class="DL" src="../image/scamwizard.png" alt="Scam Wizard"> <br>
+
+<audio controls src="../image/Saiili ft. Kaarism - Banque De France.mp3">
+    Scam Wizard
+</audio>
+</th>
+
+<th>
+<img class="DL" src="../image/purpleproject.png" alt="Silkroad"> <br>
+
+<audio controls src="../image/Silkroad.mp3">
+    Silkroad
+</audio>
+</th>
+
+<th>
+<img class="DL" src="../image/calvicie.png" alt="Calvicie"> <br>
+
+<audio controls src="../image/Calvitie.mp3">
+    Calvicie
+</audio>
+</th>
+
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+<tr>
+    <th class="Forme">
+        <h2 class="J"> 2020</h2>  <p class="J"> "Scooter Ecouteur" de Giuseppe
+        </p> <br>
+        <img class="DL" src="../image/scooterecouter.png" alt="ScooterEcouters"> <br>
+        <audio controls src="../image/Scooteur Ecouteur (feat. Kaarism).mp3">
+            ScootersEcouteurs
+        </audio>
+    </th>
+
+    <th class="Forme">
+        <h2 class="J"> 2021</h2>
+        <p class="J">
+            8Morts 6Bléssés de Freeze Cornichon
+        </p> <br>
+        <img class="DL" src="../image/freezecornichon.png" alt="8Morts 6Bléssés"> <br>
+
+        <audio controls src="../image/Freeze Cornichon - 8 Morts 6 Bléssés (Feat. Kaarism).mp3">
+        8Morts6Bléssés
+        </audio>
+    </th>
+
+    <th class="Forme">
+        <h2 class="J"> 2022</h2>
+
+        <p class="J">
+        SilkRoad de ZefraLaf
+        </p> <br>
+        <img class="DL" src="../image/scamwizard.png" alt="Scam Wizard"> <br>
+
+        <audio controls src="../image/Saiili ft. Kaarism - Banque De France.mp3">
+        Scam Wizard
+        </audio>
+    </th>
+    
+    <th class="Forme">
+        <h2 class="J"> 2022</h2>
+
+        <p class="J">
+        SilkRoad de ZefraLaf
+        </p> <br>
+        <img class="DL" src="../image/purpleproject.png" alt="Silkroad"> <br>
+
+        <audio controls src="../image/Silkroad.mp3">
+        Silkroad
+        </audio>
+    </th>
+
+    <th class="Forme">
+        <h2 class="J"> 2022</h2>
+
+        <p class="J">
+        Calvicie de Singeboy.Mp4
+        </p> <br>
+        <img class="DL" src="../image/calvicie.png" alt="Calvicie"> <br>
+
+        <audio controls src="../image/Calvitie.mp3">
+        Calvicie
+        </audio>
+    </th>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>Document</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+
+<tr>
+<th>
+
+<div class="O">
+<div class="OL">
+
+    <h2 class="NOP"> "Scooter Ecouteur" de Giuseppe
+    </h2>
+
+        <img src="../image/scooterecouter.png" alt="ScooterEcouters">
+    <audio class="MOP" controls src="../image/Scooteur Ecouteur (feat. Kaarism).mp3"> ScooterEcouters</audio>
+
+</div>
+</div>
+</th>
+<th>
+<div class="O">
+    <div class="OL">
+    
+        <h2 class="NOP"> 8Morts 6Bléssés de Freeze Cornichon
+        </h2>
+    
+            <img src="../image/freezecornichon.png" alt="8Morts 6Bléssés">
+        <audio class="MOP" controls src="../image/Freeze Cornichon - 8 Morts 6 Bléssés (Feat. Kaarism).mp3"> 8Morts 6Bléssés</audio>
+    
+    </div>
+    </div>
+</th>
+<th>
+
+<div class="O">
+<div class="OL">
+
+    <h2 class="NOP"> SilkRoad de ZefraLaf
+    </h2>
+
+        <img src="../image/purpleproject.png" alt="SilkRoad">
+    <audio class="MOP" controls src="../image/Silkroad.mp3"></audio>
+
+</div>
+</div>
+</th>
+<th>
+<div class="O">
+    <div class="OL">
+    
+        <h2 class="NOP"> Scamwizard de Saiili
+        </h2>
+    
+            <img src="../image/scamwizard.png" alt="scamwizard">
+        <audio class="MOP" controls src="../image/Saiili ft. Kaarism - Banque De France.mp3"></audio>
+    
+    </div>
+    </div>
+</th>
+<th>
+<div class="O">
+<div class="OL">
+        
+            <h2 class="NOP"> Calvitie de Singeboy.Mp4
+            </h2>
+        
+                <img src="../image/calvicie.png" alt="Calvitie">
+            <audio class="MOP" controls src="../image/Calvitie.mp3"></audio>
+        
+        </div>
+        </div>
+    </th>
+    </tr>
+</table>

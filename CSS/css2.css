@@ -1,0 +1,182 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;   
+}
+
+
+section {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.37);
+    color: white;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 15px;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+.page{
+    text-align: center;
+}
+
+.bannière3{
+    background-color: rgb(0, 0, 0);
+    margin-right: -20px;
+    margin-top: -60px;
+    margin-left: -20px;
+}
+
+.L{
+    text-align: center;
+    height: 150px;
+    padding-top: 60px;
+    font-family: cursive;
+    font-size: 400%;
+    color: aliceblue;
+}
+
+.ARM{
+    transition: transform 0.5s ease-in;
+}
+
+.ARM:hover{
+    transform:scale(1.2);
+}
+
+.couleur{
+    color: #F0F8FF;
+    font-size: 175%;
+    text-decoration: double;
+    margin-bottom: 10px;
+    margin-left: 120px;
+    font-family: cursive;
+}
+
+.i{
+    text-align: center;
+    margin-left: 230px;
+}
+
+.i:hover{
+    background-color: violet;
+}
+
+.Animationamettre{
+    width: 100%;
+    height: 1080px;
+    background: linear-gradient(-90deg, #EE82EE, #ff00ff, #470047, #ff00ff, #EE82EE);
+    background-size: 400% 400%;
+    animation: Gr 10s infinite linear;
+}
+
+@keyframes Gr{
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
+
+.backgroundhistoire{
+    background-image: url(../Ressource/image/fondvioletsecours.png);
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.BK{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.BK2{
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px  8px  rgba(0, 0, 0, 0.4);
+    border: 1px solid #ddd;
+    height: 93%;
+    width: 80%;
+    color: #F0F8FF;
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+    section {
+        margin: 15px 10px;
+        padding: 15px;
+    }
+    .L {
+        font-size: 200%;
+        padding-top: 30px;
+        height: auto;
+    }
+    .couleur {
+        margin-left: 0;
+        display: block;
+        text-align: center;
+        padding: 0.25em 0;
+    }
+    .i {
+        margin-left: 0;
+    }
+    .BK {
+        flex-direction: column;
+        align-items: center;
+    }
+    .BK2 {
+        width: 95%;
+        margin-bottom: 15px;
+    }
+    .Animationamettre {
+        height: auto;
+        min-height: 100vh;
+    }
+}
+
+@media (max-width: 480px) {
+    .L {
+        font-size: 150%;
+    }
+    .BK2 {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
